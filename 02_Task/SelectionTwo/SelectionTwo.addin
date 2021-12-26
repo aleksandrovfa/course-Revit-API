@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\SelectionTwo.dll</Assembly>
+		<AddInId>683CF8C9-8745-45D5-ABDB-34BEFE664180</AddInId>
+		<FullClassName>SelectionTwo.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Второе2 приложение для Revit</Text>
+	</AddIn>
+</RevitAddIns>
