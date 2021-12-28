@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Assembly>C:\Program Files\RevitAPITraining\02_Part.dll</Assembly>
-		<AddInId>F9892C81-EB80-52FB-A8BC-6CB5191A23A0</AddInId>
+		<AddInId>F9892C81-EB80-52FB-A8BC-6CB6431A23A0</AddInId>
 		<FullClassName>_02_Part.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
 		<Text>Задача 3.2</Text>

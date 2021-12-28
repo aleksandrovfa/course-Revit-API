@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_Task
+namespace _01_Part
 {
     [Transaction(TransactionMode.Manual)]
     public class Main : IExternalCommand
