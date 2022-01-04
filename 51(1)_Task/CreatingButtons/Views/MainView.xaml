@@ -1,0 +1,20 @@
+﻿<Window x:Class="CreatingButtons.MainView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CreatingButtons"
+             mc:Ignorable="d" 
+             Height="123" 
+        Width="250"
+        Title="Создание кнопок">
+
+    <StackPanel>
+        <Button Content="Количество труб" Command="{Binding SelectCommandPipes}"
+                Margin="5"/>
+        <Button Content="Объем стен" Command="{Binding SelectCommandVolumeWall}"
+                Margin="5"/>
+        <Button Content="Количество дверей" Command="{Binding SelectCommandDoors}"
+                Margin="5"/>
+    </StackPanel>
+</Window>
