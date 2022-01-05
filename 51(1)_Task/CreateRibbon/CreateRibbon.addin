@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+    <Name>CreateRibbon</Name>
+		<Assembly>"C:\Program Files\RevitAPITraining\CreateRibbon.dll"</Assembly>
+		<AddInId>F9892C81-EB49-49FB-A8BC-6CB5141A05A0</AddInId>
+		<FullClassName>CreateRibbon.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+	</AddIn>
+</RevitAddIns>
