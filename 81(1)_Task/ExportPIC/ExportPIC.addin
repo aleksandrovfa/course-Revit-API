@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\ExportPIC.dll</Assembly>
+		<AddInId>F9892C81-EB80-52FB-A8BC-6CB5191A23A0</AddInId>
+		<FullClassName>ExportPIC.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>ExportPIC</Text>
+	</AddIn>
+</RevitAddIns>
